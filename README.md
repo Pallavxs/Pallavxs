@@ -178,9 +178,7 @@ Designing modern UI/UX workflows
     <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="mailto:pallavshrivastava12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail" />
-  </a>
+  [![Gmail](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavshrivastava12@gmail.com)
 </p>
 
 ---
