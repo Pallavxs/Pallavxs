@@ -1,35 +1,116 @@
-# 💫 About Me:
-👨‍💻 Full Stack Developer learner<br>🌱 Currently learning frontend & backend development<br>🧠 Strong interest in understanding how complete web applications work<br>🛠 Practicing by building small projects and writing code regularly<br>📚 Focused on improving JavaScript and core web concepts<br>🔍 Enjoy debugging and learning how things work behind the scenes<br>🚀 Goal: become a confident full stack developer and build real-world applications
+<h1 align="center">Hey, I'm Pallav 👋</h1>
 
+<p align="center">
+Full-stack JavaScript developer building modern React apps, APIs, and AI-powered web experiences.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallav-shrivastava-867b43263)
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pallavxs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pallavxs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavxs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://github.com/Pallavxs">
+    <img src="https://komarev.com/ghpvc/?username=Pallavxs&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pallavxs&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Pallavxs/Pallavxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 About Me
 
-Here are some ideas to get you started:
+- 💻 Full-stack JavaScript developer
+- ⚛️ Focused on React, TypeScript, Node.js, and modern UI systems
+- 🤖 Exploring AI-powered applications and developer tools
+- 🌱 Currently improving backend architecture and Next.js skills
+- 🎯 Building production-style projects with polished UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pallavxs&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pallavxs&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavxs&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## ⚔️ CodeColosseum
+Competitive coding and problem-solving platform focused on clean UI and interactive functionality.
+
+**Tech:** JavaScript, React
+
+---
+
+## 🤖 Hermes_AI
+AI-focused web application exploring modern conversational and automation experiences.
+
+**Tech:** JavaScript, APIs
+
+---
+
+## 📝 fullstack-notes
+Full-stack notes/productivity application with organized content management.
+
+**Tech:** MERN Stack
+
+---
+
+## 🛍 Zena-UI
+Modern shopping website UI focused on responsive design and polished frontend experience.
+
+**Tech:** TypeScript, React, TailwindCSS
+
+---
+
+## 📰 Mern-blog
+Blog platform with full-stack architecture and dynamic content management.
+
+**Tech:** MongoDB, Express, React, Node.js
+
+---
+
+# 📈 Currently Working On
+
+- Advanced backend systems
+- Next.js applications
+- AI-integrated web apps
+- Better project architecture and scalability
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/pallav-shrivastava-867b43263
+- GitHub: https://github.com/Pallavxs
+- Email: pallavshrivastava12@gmail.com
+---
+
+# ⚡ Fun Fact
+
+I enjoy building visually polished interfaces and turning ideas into functional products.
