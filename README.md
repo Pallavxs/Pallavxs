@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Pallav 👋</h1>
 
 <p align="center">
-Full-stack JavaScript developer building modern React apps, APIs, and AI-powered web experiences.
+AI-focused Full Stack Developer building real-time web apps, multi-LLM systems, and scalable backend architectures.
 </p>
 
 <p align="center">
@@ -10,35 +10,52 @@ Full-stack JavaScript developer building modern React apps, APIs, and AI-powered
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Focused+Full+Stack+Developer;React+%7C+Node.js+%7C+LangChain;Real-Time+Systems+%7C+Multi-LLM+Apps;Building+Modern+Web+Experiences" />
+</p>
+
 ---
 
 # 🚀 About Me
 
-- 💻 Full-stack JavaScript developer
-- ⚛️ Focused on React, TypeScript, Node.js, and modern UI systems
-- 🤖 Exploring AI-powered applications and developer tools
-- 🌱 Currently improving backend architecture and Next.js skills
-- 🎯 Building production-style projects with polished UI/UX
+- 💻 Full Stack JavaScript Developer
+- ⚡ Building AI-powered and real-time web applications
+- 🧠 Interested in scalable backend systems and intelligent architectures
+- 🌱 Currently exploring advanced AI workflows, LangGraph, and Next.js
+- 🎯 Focused on creating production-level developer tools and modern user experiences
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+## Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux" />
+</p>
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb)
+## Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=socket.io" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code)
+## AI & Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq_API-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
@@ -61,56 +78,114 @@ Full-stack JavaScript developer building modern React apps, APIs, and AI-powered
 # 📌 Featured Projects
 
 ## ⚔️ CodeColosseum
-Competitive coding and problem-solving platform focused on clean UI and interactive functionality.
+Real-time AI coding comparison platform that evaluates multiple LLM-generated solutions side-by-side.
 
-**Tech:** JavaScript, React
+### Features
+- Multi-LLM integration
+- AI-powered code evaluation
+- Parallel response processing
+- Interactive scoring system
 
----
-
-## 🤖 Hermes_AI
-AI-focused web application exploring modern conversational and automation experiences.
-
-**Tech:** JavaScript, APIs
-
----
-
-## 📝 fullstack-notes
-Full-stack notes/productivity application with organized content management.
-
-**Tech:** MERN Stack
+### Tech Stack
+`React.js` `Node.js` `LangChain` `LangGraph` `Zod` `Async Processing`
 
 ---
 
-## 🛍 Zena-UI
-Modern shopping website UI focused on responsive design and polished frontend experience.
+## 🤖 Hermes AI
+AI-powered customer support platform with real-time escalation and intelligent FAQ handling.
 
-**Tech:** TypeScript, React, TailwindCSS
+### Features
+- Real-time support system
+- Human agent escalation
+- Embeddable chat widget
+- Authentication & API optimization
 
----
-
-## 📰 Mern-blog
-Blog platform with full-stack architecture and dynamic content management.
-
-**Tech:** MongoDB, Express, React, Node.js
-
----
-
-# 📈 Currently Working On
-
-- Advanced backend systems
-- Next.js applications
-- AI-integrated web apps
-- Better project architecture and scalability
+### Tech Stack
+`React.js` `Node.js` `MongoDB` `Socket.IO` `JWT` `Groq API`
 
 ---
 
-# 📫 Connect With Me
+## 💬 Zena
+Conversational AI chatbot with persistent chat history and internet-enhanced responses.
 
-- LinkedIn: https://linkedin.com/in/pallav-shrivastava-867b43263
-- GitHub: https://github.com/Pallavxs
-- Email: pallavshrivastava12@gmail.com
+### Features
+- Real-time messaging
+- Multi-model AI responses
+- Search-integrated answers
+- Persistent conversation context
+
+### Tech Stack
+`React.js` `Redux Toolkit` `Socket.IO` `LangChain` `MongoDB`
+
+---
+
+## 📝 Mern Blog
+Modern full-stack blogging platform with dynamic content management.
+
+### Features
+- Authentication system
+- CRUD operations
+- Responsive dashboard
+- REST API architecture
+
+### Tech Stack
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+## 📚 Fullstack Notes
+Productivity-focused note management application for organized content handling.
+
+### Features
+- Notes organization
+- Full-stack architecture
+- Persistent storage
+- Responsive UI
+
+### Tech Stack
+`React.js` `Node.js` `MongoDB`
+
+---
+
+# 🧠 Currently Learning
+
+- Advanced Backend Architecture
+- AI Agent Workflows
+- Next.js
+- System Design Basics
+- Scalable Real-Time Systems
+
+---
+
+# 📈 Development Focus
+
+```txt
+Building production-ready AI systems
+Improving backend scalability
+Creating better developer experiences
+Designing modern UI/UX workflows
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Pallavxs">
+    <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://linkedin.com/in/pallav-shrivastava-867b43263">
+    <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:pallavshrivastava12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
 ---
 
 # ⚡ Fun Fact
 
-I enjoy building visually polished interfaces and turning ideas into functional products.
+I enjoy building systems where AI, real-time communication, and polished user experiences work together seamlessly.
