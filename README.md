@@ -42,7 +42,6 @@ AI-focused Full Stack Developer building real-time web apps, multi-LLM systems, 
   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=socket.io" />
 </p>
 
